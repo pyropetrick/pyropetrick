@@ -1,18 +1,18 @@
 ## Hi there, I'm Pavel 👋
 
-##### 🔭 I’m currently working on freelance
+#### 🔭 I’m currently working on freelance
 
-##### 📭 Contacts
+#### 📭 Contacts
 
 - [Linkedin](https://www.linkedin.com/in/pyropetrick/)
 - [Telegram](https://t.me/pyropetrick)
 - Gmail: pavel.chernenko97@gmail.com
 
-##### 📈 Codewars
+#### 📈 Codewars
 
 ![codewars badge](https://www.codewars.com/users/pyropetrick/badges/large)
 
-##### ⚡Languages
+#### ⚡Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyropetrick&layout=compact)
 
