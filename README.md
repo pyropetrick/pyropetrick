@@ -45,7 +45,7 @@
 </details>
 
 <details><summary>🏹 Dart</summary>
-- [Roll 🎲](https://github.com/pyropetrick/Dice-Roll)
+- [Roll Dice](https://github.com/pyropetrick/Dice-Roll)
 </details>
 
 <details><summary>💵 Node</summary>
