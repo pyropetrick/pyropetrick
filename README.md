@@ -43,7 +43,7 @@
 - [Country list](https://github.com/pyropetrick/react-country-list)
   
 </details>
-<details><summary>🏹 Dart</summary>
+<details><summary>🏹 Dart & Flutter</summary>
   
 - [Roll Dice](https://github.com/pyropetrick/Dice-Roll)
   
