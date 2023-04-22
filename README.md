@@ -41,7 +41,8 @@
 - [Budget app](https://github.com/pyropetrick/react-budget-app)
 - [Tips calculator](https://github.com/pyropetrick/react-tips-calculator)
 - [Country list](https://github.com/pyropetrick/react-country-list)
-
+  
+</details>
 <details><summary>🏹 Dart</summary>
   
 - [Roll Dice](https://github.com/pyropetrick/Dice-Roll)
