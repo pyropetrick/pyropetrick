@@ -44,6 +44,10 @@
 
 </details>
 
+<details><summary>🏹 Dart </summary>
+- [Roll 🎲 ](https://github.com/pyropetrick/Dice-Roll)
+</details>
+
 <details><summary>💵 Node</summary>
 
 - [Auth-API](https://github.com/pyropetrick/react-auth-server)
