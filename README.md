@@ -46,6 +46,7 @@
 <details><summary>🏹 Dart & Flutter</summary>
   
 - [Roll Dice](https://github.com/pyropetrick/Dice-Roll)
+- [Simple Quiz](https://github.com/pyropetrick/simple-quize)
   
 </details>
 
