@@ -18,7 +18,7 @@
 
 #### Git Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pyropetrick&theme=radical)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pyropetrick&show_icons=true&theme=radical)
 
 <details><summary>🌱 CSS Projects</summary>
 
