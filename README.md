@@ -52,6 +52,7 @@
 - [Roll Dice](https://github.com/pyropetrick/Dice-Roll)
 - [Simple Quiz](https://github.com/pyropetrick/simple-quize)
 - [Expense Tracker](https://github.com/pyropetrick/expense-tracker)
+- [Meals App](https://github.com/pyropetrick/meals-app)
   
 </details>
 
