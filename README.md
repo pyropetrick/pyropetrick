@@ -40,7 +40,7 @@
 
 <details><summary>🚀 React</summary>
 
-- [Pixema](https://github.com/pyropetrick/react-tips-calculator)
+- [Pixema](https://github.com/pyropetrick/react-pixema)
 - [Auth](https://github.com/pyropetrick/react-auth)
 - [Budget app](https://github.com/pyropetrick/react-budget-app)
 - [Tips calculator](https://github.com/pyropetrick/react-tips-calculator)
