@@ -47,6 +47,12 @@
 - [Country list](https://github.com/pyropetrick/react-country-list)
   
 </details>
+
+<details>
+  <summary>🌟 React + Node.js</summary>
+  
+- [Todo List](https://github.com/pyropetrick/TodoList)
+</details>
 <details><summary>🏹 Dart & Flutter</summary>
   
 - [Roll Dice](https://github.com/pyropetrick/Dice-Roll)
@@ -57,6 +63,6 @@
 </details>
 
 <details><summary>💵 Node</summary>
-
+  
 - [Auth-API](https://github.com/pyropetrick/react-auth-server)
 </details>
